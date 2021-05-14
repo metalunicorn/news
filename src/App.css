@@ -265,6 +265,7 @@ footer {
   line-height: 19px;
   color: #000000;
 
+
 }
 footer div {
   padding-left: 5px;
@@ -274,6 +275,15 @@ footer div {
   font-size: 16px;
   line-height: 19px;
   color: #000000;
+  padding-right: 20px;
+}
+
+.footer-link{
+  display: flex;
+  justify-content: space-between;
+}
+.footer-link img {
+  margin-right: 10px;
 }
 
 #floating-circlesG{
